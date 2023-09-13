@@ -4,7 +4,7 @@ import socket
 import sys
 
 receiver_email = 'example@gmail.com'
-sender_email = 'example.com'
+sender_email = 'example@gmail.com'
 app_password = 'app password goes here'
 
 def get_public_ip():
