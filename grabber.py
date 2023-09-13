@@ -3,9 +3,9 @@ import smtplib
 import socket
 import sys
 
-receiver_email = 'coolaids270@gmail.com'
-sender_email = 'megapikachulvx@gmail.com'
-app_password = 'intrejwlrmkfokgr'
+receiver_email = 'example@gmail.com'
+sender_email = 'example.com'
+app_password = 'app password goes here'
 
 def get_public_ip():
     try:
